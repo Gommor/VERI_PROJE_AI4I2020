@@ -10,12 +10,12 @@ Bu projeyi kendi bilgisayarınızda sıfır hata ile kurup çalıştırmak için
 # Kurulum ve Çalıştırma Adımları
 
 Terminalinizi (veya Git Bash) açın, projeyi bilgisayarınıza indirin ve proje klasörünün içine geçiş yapın:
-1. Depoyu Klonlayın
+## 1. Depoyu Klonlayın
 ```bash
 git clone <github-repo-linkiniz>
 cd <klonlanan-klasör-adı>
 ```
-2. Sanal ortam oluşturma
+## 2. Sanal ortam oluşturma
 ```bash
 python -m venv .venv 
 
