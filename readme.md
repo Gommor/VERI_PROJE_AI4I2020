@@ -12,7 +12,7 @@ Bu projeyi kendi bilgisayarınızda sıfır hata ile kurup çalıştırmak için
 Terminalinizi (veya Git Bash) açın, projeyi bilgisayarınıza indirin ve proje klasörünün içine geçiş yapın:
 ## 1. Depoyu Klonlayın
 ```bash
-git clone <github-repo-linkiniz>
+git clone <https://github.com/Gommor/VERI_PROJE_AI4I2020>
 cd <klonlanan-klasör-adı>
 ```
 ## 2. Sanal ortam oluşturma
