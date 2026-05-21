@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn 
+matplotlib 
+seaborn
+ipykernel
+// LLM BRIDGE
+google-genai
+python-dotenv
