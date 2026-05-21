@@ -9,9 +9,9 @@ Bu projeyi kendi bilgisayarınızda sıfır hata ile kurup çalıştırmak için
 
 ## Kurulum ve Çalıştırma Adımları
 
-1. Depoyu Klonlayın
 Terminalinizi (veya Git Bash) açın, projeyi bilgisayarınıza indirin ve proje klasörünün içine geçiş yapın:
 ```bash
+1. Depoyu Klonlayın
 git clone <github-repo-linkiniz>
 cd <klonlanan-klasör-adı>
 
