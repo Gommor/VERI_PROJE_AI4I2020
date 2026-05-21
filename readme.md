@@ -7,7 +7,7 @@ Bu projeyi kendi bilgisayarınızda sıfır hata ile kurup çalıştırmak için
 ---
 
 
-## Kurulum ve Çalıştırma Adımları
+# Kurulum ve Çalıştırma Adımları
 
 Terminalinizi (veya Git Bash) açın, projeyi bilgisayarınıza indirin ve proje klasörünün içine geçiş yapın:
 1. Depoyu Klonlayın
@@ -18,22 +18,22 @@ cd <klonlanan-klasör-adı>
 2. Sanal ortam oluşturma
 ```bash
 python -m venv .venv 
-```
-# Windows kullanıyorsanız aktif etme komutu:
+
+## Windows kullanıyorsanız aktif etme komutu:
 .venv\Scripts\activate
 
-# macOS veya Linux kullanıyorsanız aktif etme komutu:
+## macOS veya Linux kullanıyorsanız aktif etme komutu:
 source .venv/bin/activate
 ```
-# 3. .env dosyasi oluşturun içine api key girin.
+## 3. .env dosyasi oluşturun içine api key girin.
 ```bash
 GOOGLE_API_KEY=SizinGeminiApiKeyDeğeriniz
 ```
-# 4. Gerekli Kütüphaneleri Yükleyin
+## 4. Gerekli Kütüphaneleri Yükleyin
 ```bash
 pip install -r requirements.txt
 ```
-# 5. Projeyi Çalıştırın
+## 5. Projeyi Çalıştırın
 ```bash
 VS Code veya Jupyter Lab üzerinden proje_analiz.ipynb ana kod dosyasını açın. Sağ üst köşeden kernel (çekirdek) olarak oluşturduğumuz .venv ortamını seçip tüm hücreleri yukarıdan aşağıya sırayla çalıştırabilirsiniz
 ```
